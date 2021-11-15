@@ -4,6 +4,10 @@ public class calculator {
         return (a + b);
     }
 
+    static int subtrackIt(int a, int b) {
+        return (a - b);
+    }
+
     public static void main(String[] args) {
         //   System.out.println("Hello World");
         int firstNum = 50;
