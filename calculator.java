@@ -84,6 +84,8 @@ public class calculator {
                     break;
             }
             System.out.println("\n\n");
+	    System.out.println("Thanks for using our calculator\nThis project is made by Sagor, Pranto & Akif\n\n\n\n---------------\n");
+
         }
         
     }
