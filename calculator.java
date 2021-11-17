@@ -83,6 +83,7 @@ public class calculator {
                 default:
                     break;
             }
+            System.out.println("\n\n");
         }
         
     }
